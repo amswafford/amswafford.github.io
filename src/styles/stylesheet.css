@@ -2,8 +2,11 @@ body {
         background-color: #ddd;
 }
 
+ul {
+        list-style-type: none;
+}
+
 #nav {
         margin: 0;
         position: absolute;
-        list-style-type: none;
 }
